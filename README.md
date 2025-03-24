@@ -13,14 +13,16 @@ Este projeto é um scraper de produtos da Amazon, que permite buscar informaçõ
 
 ## ⚙️ Como Configurar e Rodar o Projeto
 
-### 🔹 1. Clone o Repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
+<h2>🔹 1. Clone o Repositório</h2>
+git clone https://github.com/seu-usuario/seu-repositorio.git <br/>
 cd seu-repositorio <br/>
 
-###🔹 2. Instale as Dependências
+<h2>🔹 2. Instale as Dependências</h2>
 npm install <br/>
-###🔹 3. Inicie o Servidor
+
+<h2>🔹 3. Inicie o Servidor</h2>
 node server.js <br/>
-###🔹 4. Acesse no Navegador
-Abra o seguinte link no navegador:
+
+<h2>🔹 4. Acesse no Navegador</h2>
+Abra o seguinte link no navegador: <br/>
 http://localhost:3000 <br/>
