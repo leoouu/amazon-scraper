@@ -15,7 +15,7 @@ Este projeto é um scraper de produtos da Amazon, que permite buscar informaçõ
 
 ### 🔹 1. Clone o Repositório
 
-```sh
+
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
 🔹 2. Instale as Dependências
