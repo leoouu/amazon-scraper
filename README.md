@@ -20,18 +20,11 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
 🔹 2. Instale as Dependências
 sh
-Copiar
-Editar
 npm install
 🔹 3. Inicie o Servidor
 sh
-Copiar
-Editar
 node server.js
 🔹 4. Acesse no Navegador
 Abra o seguinte link no navegador:
-
 sh
-Copiar
-Editar
 http://localhost:3000
