@@ -24,5 +24,4 @@ npm install
 node server.js
 🔹 4. Acesse no Navegador
 Abra o seguinte link no navegador:
-```sh
 http://localhost:3000
