@@ -1,31 +1,37 @@
-# Scraper de Produtos da Amazon
+# 🛒 Scraper de Produtos da Amazon
 
 Este projeto é um scraper de produtos da Amazon, que permite buscar informações sobre produtos diretamente da interface web.
 
 ## 🚀 Tecnologias Utilizadas
 
-- **Node.js** (Backend)
-- **Express.js** (API)
-- **Axios & JSDOM** (Scraping de dados)
-- **HTML, CSS e JavaScript** (Frontend)
+- **Node.js** - Backend para processar requisições
+- **Express.js** - Framework para criação da API
+- **Axios & JSDOM** - Scraping de dados da Amazon
+- **HTML, CSS e JavaScript** - Construção do Frontend
 
 ---
 
-## 📌 Como Configurar e Rodar o Projeto
+## ⚙️ Como Configurar e Rodar o Projeto
 
-### 1️⃣ **Clone o Repositório**
-`sh
+### 🔹 1. Clone o Repositório
+
+```sh
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
-
-2️⃣ Instale as Dependências
-`sh
+🔹 2. Instale as Dependências
+sh
+Copiar
+Editar
 npm install
-
-3️⃣ Inicie o Servidor
-`sh
+🔹 3. Inicie o Servidor
+sh
+Copiar
+Editar
 node server.js
+🔹 4. Acesse no Navegador
+Abra o seguinte link no navegador:
 
-4️⃣ Acesse no Navegador
-`sh
-Abra: http://localhost:3000
+sh
+Copiar
+Editar
+http://localhost:3000
